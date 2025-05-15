@@ -81,8 +81,8 @@ A redistribuição dos clientes da Loja 4 para as demais, especialmente Loja 1 e
 ├── images/                    # Gráficos exportados
 │   └── Scatterplot Estados/   # Gráficos de dispersão por estado
 ├── analysis.ipynb             # Notebook com análise completa
-├── mapa_lojas.html            # Mapa interativo de distribuição
-└── README.md                  # Este arquivo
+├── README.md                  # Este arquivo
+└── mapa_lojas.html            # Mapa interativo de distribuição
 
 ## 🔄 Como Reproduzir a Análise
 1. Clone o repositório
